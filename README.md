@@ -1,5 +1,5 @@
 # honmaq vaxtrack
-a simplified representation of vaccine status tracker
+a simplified  vaccine status tracker
 
 <b>Dataset</b>
 https://github.com/frasfras/honmaq/blob/main/Data/dohvac.csv
